@@ -1,6 +1,4 @@
-# Excel Shortcuts Cheat Sheet
-
-## 🗂 Categorized Shortcuts
+## Excel Shortcuts Cheat Sheet
 
 ### 1. Function Keys (F1-F12)
 | Shortcut | Function Description                                      |
@@ -18,7 +16,6 @@
 | F11      | Create chart from selected range (Insert > Chart)         |
 | F12      | Open Save As dialog (File > Save As)                     |
 
----
 
 ### 2. Shift + Function Keys
 | Shortcut    | Function Description                                      |
@@ -34,7 +31,6 @@
 | Shift + F11 | Insert new worksheet (Insert > Worksheet)                |
 | Shift + F12 | Save workbook (Opens Save As dialog for new workbooks)    |
 
----
 
 ### 3. Ctrl Combinations
 | Shortcut           | Function Description                                      |
@@ -72,7 +68,6 @@
 | Ctrl + Y           | Redo last action                                         |
 | Ctrl + Z           | Undo last action                                         |
 
----
 
 ### 4. Alt Combinations
 | Shortcut           | Function Description                                      |
@@ -87,7 +82,6 @@
 | Alt + ;            | Select visible cells in current selection                |
 | Alt + '            | Open Style dialog                                        |
 
----
 
 ### 5. Navigation & Selection
 | Shortcut               | Function Description                                      |
@@ -107,7 +101,6 @@
 | Ctrl + [               | Select precedent cells                                   |
 | Ctrl + ]               | Select dependent cells                                   |
 
----
 
 ### 6. Formatting & Symbols
 | Shortcut           | Function Description                                      |
@@ -120,7 +113,6 @@
 | Alt + 0162         | Insert ¢ symbol                                          |
 | Alt + 0163         | Insert £ symbol                                          |
 
----
 
 ### 7. Workbook/Worksheet Management
 | Shortcut               | Function Description                                      |
@@ -130,7 +122,6 @@
 | Ctrl + Shift + Page   | Select multiple worksheets                               |
 | Ctrl + Shift + F12    | Open Print dialog                                        |
 
----
 
 ### 8. Special Keys
 | Shortcut           | Function Description                                      |
@@ -142,5 +133,3 @@
 | **Delete**         | Delete selection or character to the right               |
 | **Backspace**      | Delete selection or character to the left                |
 | **Esc**            | Cancel cell entry                                        |
-
----
