@@ -129,6 +129,7 @@
 | Ctrl + Shift + O       | Select cells with comments                               |
 | Ctrl + Shift + *       | Select current data region                               |
 | Ctrl + Shift + +       | Insert dialog                                            |
+| Ctrl +  -              | Delete dialog                                            |
 | Ctrl + [               | Select precedent cells                                   |
 | Ctrl + ]               | Select dependent cells                                   |
 
