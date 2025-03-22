@@ -49,6 +49,7 @@
 | `COUNT()`        | Counts cells containing numbers.                                            | `=COUNT(A1:A10)` → Counts numeric cells in A1:A10.                   |
 | `COUNTA()`       | Counts non-empty cells.                                                     | `=COUNTA(A1:A10)` → Counts all non-blank cells.                      |
 | `MEDIAN()`       | Finds the middle value in a dataset.                                        | `=MEDIAN(A1:A10)` → Returns median of A1:A10.                        |
+| `ROUND()`        | Rounds a number to a specified number of digits.                            | `=ROUND(3.14159, 2)` → 3.14.                                         |
 | `SUMPRODUCT()`   | Multiplies arrays and returns the sum of products.                          | `=SUMPRODUCT(A1:A10, B1:B10)` → Sums (A1*B1 + A2*B2 + ...).         |
 | `SUMSQ()`        | Returns the sum of squares of arguments.                                    | `=SUMSQ(2,3)` → 2² + 3² = 13.                                       |
 | `COUNTBLANK()`   | Counts empty cells in a range.                                              | `=COUNTBLANK(A1:A10)` → Counts blank cells in A1:A10.                |
