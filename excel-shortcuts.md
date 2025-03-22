@@ -16,8 +16,38 @@
 | F11      | Create chart from selected range (Insert > Chart)         |
 | F12      | Open Save As dialog (File > Save As)                     |
 
+### 2. Keyboard Shortcuts (Ctrl + A-Z)  
+| Shortcut       | Function Description                                      |  
+|----------------|----------------------------------------------------------|  
+| **Ctrl + A**   | Select All (entire worksheet or data region)             |  
+| **Ctrl + B**   | Bold selected text/cell                                  |  
+| **Ctrl + C**   | Copy selected cells                                      |  
+| **Ctrl + D**   | Fill Down (copies content from cell above)               |  
+| **Ctrl + E**   | Flash Fill (auto-fill data based on pattern)             |  
+| **Ctrl + F**   | Find data in worksheet                                   |  
+| **Ctrl + G**   | Go To specific cell/range (same as F5)                   |  
+| **Ctrl + H**   | Replace data in worksheet                                |  
+| **Ctrl + I**   | Italic selected text/cell                                |  
+| **Ctrl + J**   | *No common shortcut*                                     |  
+| **Ctrl + K**   | Insert Hyperlink                                         |  
+| **Ctrl + L**   | Create Table from selected range                         |  
+| **Ctrl + M**   | *No common shortcut*                                     |  
+| **Ctrl + N**   | New Workbook                                             |  
+| **Ctrl + O**   | Open existing workbook                                   |  
+| **Ctrl + P**   | Print worksheet                                          |  
+| **Ctrl + Q**   | Quick Analysis (analyze selected data)                   |  
+| **Ctrl + R**   | Fill Right (copies content from left cell)               |  
+| **Ctrl + S**   | Save workbook                                            |  
+| **Ctrl + T**   | Create Table (same as Ctrl + L)                          |  
+| **Ctrl + U**   | Underline selected text/cell                             |  
+| **Ctrl + V**   | Paste copied content                                     |  
+| **Ctrl + W**   | Close current workbook                                   |  
+| **Ctrl + X**   | Cut selected cells                                       |  
+| **Ctrl + Y**   | Redo last action                                         |  
+| **Ctrl + Z**   | Undo last action                                         |  
 
-### 2. Shift + Function Keys
+
+### 3. Shift + Function Keys
 | Shortcut    | Function Description                                      |
 |-------------|----------------------------------------------------------|
 | Shift + F2  | Insert/edit cell comment (Insert > Comment)              |
@@ -32,7 +62,7 @@
 | Shift + F12 | Save workbook (Opens Save As dialog for new workbooks)    |
 
 
-### 3. Ctrl Combinations
+### 4. Ctrl Combinations
 | Shortcut           | Function Description                                      |
 |--------------------|----------------------------------------------------------|
 | Ctrl + F1          | Toggle task pane/ribbon visibility                       |
@@ -69,7 +99,7 @@
 | Ctrl + Z           | Undo last action                                         |
 
 
-### 4. Alt Combinations
+### 5. Alt Combinations
 | Shortcut           | Function Description                                      |
 |--------------------|----------------------------------------------------------|
 | Alt + F1           | Create chart from selected range                         |
@@ -83,7 +113,7 @@
 | Alt + '            | Open Style dialog                                        |
 
 
-### 5. Navigation & Selection
+### 6. Navigation & Selection
 | Shortcut               | Function Description                                      |
 |------------------------|----------------------------------------------------------|
 | **Page Down**          | Move down one screen                                     |
@@ -102,7 +132,7 @@
 | Ctrl + ]               | Select dependent cells                                   |
 
 
-### 6. Formatting & Symbols
+### 7. Formatting & Symbols
 | Shortcut           | Function Description                                      |
 |--------------------|----------------------------------------------------------|
 | Ctrl + Shift + 1   | Apply Number format (###0.00)                            |
@@ -114,7 +144,7 @@
 | Alt + 0163         | Insert £ symbol                                          |
 
 
-### 7. Workbook/Worksheet Management
+### 8. Workbook/Worksheet Management
 | Shortcut               | Function Description                                      |
 |------------------------|----------------------------------------------------------|
 | Ctrl + Page Up/Down    | Switch between worksheets                                |
@@ -123,7 +153,7 @@
 | Ctrl + Shift + F12    | Open Print dialog                                        |
 
 
-### 8. Special Keys
+### 9. Special Keys
 | Shortcut           | Function Description                                      |
 |--------------------|----------------------------------------------------------|
 | **Enter**          | Confirm entry and move down                              |
