@@ -165,3 +165,10 @@
 | **Delete**         | Delete selection or character to the right               |
 | **Backspace**      | Delete selection or character to the left                |
 | **Esc**            | Cancel cell entry                                        |
+
+### 10. Date & Time
+| Shortcut           | Function Description                                      |
+|--------------------|----------------------------------------------------------|
+| **Ctrl + ;**       | Insert current date                                      |
+| **Ctrl + Shift + ;**| Insert current time                                      |
+

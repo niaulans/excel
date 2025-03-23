@@ -9,3 +9,9 @@
   - Correct errors
   - Fill in missing data
 - Check data quality and summarize the data better
+
+```
+Format data
+_-Rp* #.##0_-;-Rp* #.##0_-;_-Rp* "-"_-;_-@_- => Rp 300.000
+```
+

@@ -67,6 +67,7 @@
 | `RANDBETWEEN()`  | Generates a random integer between two numbers.                             | `=RANDBETWEEN(1, 100)` → 57 (random between 1-100).                 |
 | `SQRT()`         | Returns the square root of a number.                                        | `=SQRT(25)` → 5.                                                    |
 | `SUBTOTAL()`     | Performs a calculation (e.g., SUM, AVERAGE) while ignoring hidden rows.     | `=SUBTOTAL(9, A1:A10)` → SUM of A1:A10, ignoring hidden rows.       |
+| `POWER()`        | Raises a number to a power.                                                 | `=POWER(2, 3)` → 8 (2³).                                            |
 
 
 ### Find & Search Functions
@@ -121,7 +122,7 @@
 ### Text Functions (Misc.)
 | Formula          | Description                                                                 | Usage                                                                 |
 |------------------|-----------------------------------------------------------------------------|-----------------------------------------------------------------------|
-| `CONCAT()`       | Concatenates text strings.                                                  | `=CONCAT(A1, " ", B1)` → Combines A1, space, and B1.                 |
+| `CONCAT()/ CONCATENATE()`       | Concatenates text strings.                                                  | `=CONCAT(A1, " ", B1)` → Combines A1, space, and B1.                 |
 | `TEXTJOIN()`     | Joins text strings with a delimiter.                                        | `=TEXTJOIN(", ", TRUE, A1:A10)` → Combines A1:A10 with commas.       |
 | `CHAR()`         | Returns a character based on ASCII code.                                    | `=CHAR(65)` → "A".                                                   |
 | `CODE()`         | Returns the ASCII code of a character.                                      | `=CODE("A")` → 65.                                                   |
