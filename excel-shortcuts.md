@@ -177,7 +177,7 @@
 |--------------------|----------------------------------------------------------|
 | Alt H O I          | AutoFit column width                                     |
 | Alt H O A          | AutoFit row height                                       |
-| ALt H D D          | Delete selected cell                                     |
+| Alt H D D          | Delete selected cell                                     |
 | Alt H D R          | Delete selected row                                      |
 | Alt H D C          | Delete selected column                                   |
 | Alt H D S          | Delete selected sheet                                    |
