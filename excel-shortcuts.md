@@ -239,4 +239,13 @@ Delete multiple blank rows:
 8. Click OK
 ```
 
+```
+Don't merge cells for data tables. Use Center across selection instead.
+1. Select the range of cells
+2. Ctrl + 1
+3. Alignment tab
+4. Horizontal: Center across selection
+5. OK
+```
+
 
