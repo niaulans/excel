@@ -122,7 +122,7 @@
 ### Text Functions (Misc.)
 | Formula          | Description                                                                 | Usage                                                                 |
 |------------------|-----------------------------------------------------------------------------|-----------------------------------------------------------------------|
-| `CONCAT()/ CONCATENATE()`       | Concatenates text strings.                                                  | `=CONCAT(A1, " ", B1)` → Combines A1, space, and B1.                 |
+| `CONCATENATE()`       | Concatenates text strings.                                                  | `=CONCATENATE(A1, " ", B1)` → Combines A1, space, and B1.                 |
 | `TEXTJOIN()`     | Joins text strings with a delimiter.                                        | `=TEXTJOIN(", ", TRUE, A1:A10)` → Combines A1:A10 with commas.       |
 | `CHAR()`         | Returns a character based on ASCII code.                                    | `=CHAR(65)` → "A".                                                   |
 | `CODE()`         | Returns the ASCII code of a character.                                      | `=CODE("A")` → 65.                                                   |
