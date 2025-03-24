@@ -177,13 +177,13 @@
 |--------------------|----------------------------------------------------------|
 | Alt H O I          | AutoFit column width                                     |
 | Alt H O A          | AutoFit row height                                       |
+| Alt H O W          | Set column width manually                                |
+| Alt H O H          | Set row height manually                                  |
 | Alt H D D          | Delete selected cell                                     |
 | Alt H D R          | Delete selected row                                      |
 | Alt H D C          | Delete selected column                                   |
 | Alt H D S          | Delete selected sheet                                    |
-| Alt H O W          | Set column width manually                                |
-| Alt H O H          | Set row height manually                                  |
-| ALt H M M          | Merge selected cells                                     |
+| Alt H M M          | Merge selected cells                                     |
 | Alt H M C          | Merge across                                             |
 | Alt H M A          | Unmerge cells                                            |
 | Alt H B A          | Add all borders to selected cells                        |
