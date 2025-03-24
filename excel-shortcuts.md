@@ -203,7 +203,7 @@
 | Alt H U S          | Sum selected cells                                       |
 | Alt H U C          | Count selected cells                                     |
 | Alt H U M          | Find maximum value                                       |
-| Alt H U I          | Find maximum value                                       |
+| Alt H U I          | Find minimum value                                       |
 | Alt H E A          | Clear all                                                |
 | Alt H E F          | Clear formats                                            |
 
