@@ -1,7 +1,7 @@
 ## Excel Shortcuts Cheat Sheet
 
 ### 1. Function Keys (F1-F12)
-| Shortcut | Function Description                                      |
+| Shortcut | Function Description                                     |
 |----------|----------------------------------------------------------|
 | F1       | Display Help                                             |
 | F2       | Edit active cell                                         |
@@ -13,11 +13,11 @@
 | F8       | Toggle selection extension with arrow keys               |
 | F9       | Calculate all worksheets in open workbooks               |
 | F10      | Toggle Menu Bar activation                               |
-| F11      | Create chart from selected range (Insert > Chart)         |
+| F11      | Create chart from selected range (Insert > Chart)        |
 | F12      | Open Save As dialog (File > Save As)                     |
 
 ### 2. Keyboard Shortcuts (Ctrl + A-Z)  
-| Shortcut       | Function Description                                      |  
+| Shortcut       | Function Description                                     |  
 |----------------|----------------------------------------------------------|  
 | **Ctrl + A**   | Select All (entire worksheet or data region)             |  
 | **Ctrl + B**   | Bold selected text/cell                                  |  
@@ -48,7 +48,7 @@
 
 
 ### 3. Shift + Function Keys
-| Shortcut    | Function Description                                      |
+| Shortcut    | Function Description                                     |
 |-------------|----------------------------------------------------------|
 | Shift + F2  | Insert/edit cell comment (Insert > Comment)              |
 | Shift + F3  | Open Function dialog (Insert > Function)                 |
@@ -59,11 +59,11 @@
 | Shift + F9  | Calculate active worksheet only                          |
 | Shift + F10 | Display shortcut menu for selected item                  |
 | Shift + F11 | Insert new worksheet (Insert > Worksheet)                |
-| Shift + F12 | Save workbook (Opens Save As dialog for new workbooks)    |
+| Shift + F12 | Save workbook (Opens Save As dialog for new workbooks)   |
 
 
 ### 4. Ctrl Combinations
-| Shortcut           | Function Description                                      |
+| Shortcut           | Function Description                                     |
 |--------------------|----------------------------------------------------------|
 | Ctrl + F1          | Toggle task pane/ribbon visibility                       |
 | Ctrl + F2          | Open Print Preview                                       |
@@ -100,7 +100,7 @@
 
 
 ### 5. Alt Combinations
-| Shortcut           | Function Description                                      |
+| Shortcut           | Function Description                                     |
 |--------------------|----------------------------------------------------------|
 | Alt + F1           | Create chart from selected range                         |
 | Alt + F2           | Open Save As dialog                                      |
@@ -114,7 +114,7 @@
 
 
 ### 6. Navigation & Selection
-| Shortcut               | Function Description                                      |
+| Shortcut               | Function Description                                     |
 |------------------------|----------------------------------------------------------|
 | **Page Down**          | Move down one screen                                     |
 | **Page Up**            | Move up one screen                                       |
@@ -135,7 +135,7 @@
 
 
 ### 7. Formatting & Symbols
-| Shortcut           | Function Description                                      |
+| Shortcut           | Function Description                                     |
 |--------------------|----------------------------------------------------------|
 | Ctrl + Shift + 1   | Apply Number format (###0.00)                            |
 | Ctrl + Shift + 2   | Apply Time format (hh:mm)                                |
@@ -147,16 +147,16 @@
 
 
 ### 8. Workbook/Worksheet Management
-| Shortcut               | Function Description                                      |
-|------------------------|----------------------------------------------------------|
-| Ctrl + Page Up/Down    | Switch between worksheets                                |
-| Shift + F11           | Insert new worksheet                                     |
-| Ctrl + Shift + Page   | Select multiple worksheets                               |
-| Ctrl + Shift + F12    | Open Print dialog                                        |
+| Shortcut               | Function Description                                    |
+|------------------------|---------------------------------------------------------|
+| Ctrl + Page Up/Down    | Switch between worksheets                               |
+| Shift + F11            | Insert new worksheet                                    |
+| Ctrl + Shift + Page    | Select multiple worksheets                              |
+| Ctrl + Shift + F12     | Open Print dialog                                       |
 
 
 ### 9. Special Keys
-| Shortcut           | Function Description                                      |
+| Shortcut           | Function Description                                     |
 |--------------------|----------------------------------------------------------|
 | **Enter**          | Confirm entry and move down                              |
 | **Shift + Enter**  | Confirm entry and move up                                |
@@ -167,8 +167,76 @@
 | **Esc**            | Cancel cell entry                                        |
 
 ### 10. Date & Time
-| Shortcut           | Function Description                                      |
+| Shortcut              | Function Description                                     |
+|--------------------   |----------------------------------------------------------|
+| Ctrl + ;              | Insert current date                                      |
+| Ctrl + Shift + ;      | Insert current time                                      |
+
+### 11. Other Useful Shortcuts
+| Shortcut           | Function Description                                     |
 |--------------------|----------------------------------------------------------|
-| **Ctrl + ;**       | Insert current date                                      |
-| **Ctrl + Shift + ;**| Insert current time                                      |
+| Alt H O I          | AutoFit column width                                     |
+| Alt H O A          | AutoFit row height                                       |
+| ALt H D D          | Delete selected cell                                     |
+| Alt H D R          | Delete selected row                                      |
+| Alt H D C          | Delete selected column                                   |
+| Alt H D S          | Delete selected sheet                                    |
+| Alt H O W          | Set column width manually                                |
+| Alt H O H          | Set row height manually                                  |
+| ALt H M M          | Merge selected cells                                     |
+| Alt H M C          | Merge across                                             |
+| Alt H M A          | Unmerge cells                                            |
+| Alt H B A          | Add all borders to selected cells                        |
+| Alt H B N          | Remove all borders from selected cells                   |
+| Alt H F C          | Change font color                                        |
+| Alt H F F          | Change font style                                        |
+| Alt H F S          | Change font size                                         |
+| Alt N V            | Insert pivot table                                       |
+| Alt N C            | Insert chart                                             |
+| ALt A S S          | Sort A-Z                                                 |
+| Alt A S D          | Sort Z-A                                                 |
+| Alt D O            | Open form dialog                                         |
+| Alt W V G          | Activate/deactivate gridlines                            | 
+| Alt A T            | Filter data                                              |
+| Alt A M            | Removes duplicates                                       |
+| Alt H U A          | Average selected cells                                   |
+| Alt H U S          | Sum selected cells                                       |
+| Alt H U C          | Count selected cells                                     |
+| Alt H U M          | Find maximum value                                       |
+| Alt H U I          | Find maximum value                                       |
+| Alt H E A          | Clear all                                                |
+| Alt H E F          | Clear formats                                            |
+
+
+
+### Notes, tips & tricks
+```
+Custom format cells:
+# - Digit placeholder
+0 - Digit placeholder with leading zeros
+? - Single character placeholder
+@ - Text placeholder
+
+# "pcs" -> 5 pcs
+_-Rp* #.##0,00_-;-Rp* #.##0,00_-;_-Rp* "-"??_-;_-@_- -> -Rp 1.000,00
+_-* #.##0_-;-* #.##0_-;_-* "-"_-;_-@_- -> 1.000
+_-Rp* #.##0_-;-Rp* #.##0_-;_-Rp* "-"_-;_-@_- -> Rp1.000
+```
+
+```
+=VLOOKUP(H6;A1:B10;{2,3,4};FALSE) -> Get multiple values from VLOOKUP at once (column 2, 3, 4)
+```
+
+```
+Delete multiple blank rows:
+1. Select the range of cells
+2. Press F5
+3. Click on Special
+4. Select Blanks
+5. Click OK
+6. Ctrl + -
+7. Select Entire Row
+8. Click OK
+```
+
 
