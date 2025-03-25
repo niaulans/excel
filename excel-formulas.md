@@ -8,9 +8,10 @@
 | `NOT()`       | Reverses the logical value of its argument.                                 | `=NOT(A1=TRUE)` → Returns FALSE if A1 is TRUE.                        |
 | `XOR()`       | Returns TRUE for an odd number of TRUE arguments.                           | `=XOR(A1>5, B1<10)` → TRUE if only **one** condition is TRUE.        |
 | `IF()`        | Returns one value if TRUE, another if FALSE.                                | `=IF(A1>50, "Pass", "Fail")` → Returns "Pass" if A1 > 50.            |
+| `IFS()`       | Returns a value based on multiple conditions.                               | `=IFS(A1>90, "A", A1>80, "B", A1>70, "C")` → Returns grade based on A1 value. |
 | `IFERROR()`   | Returns a custom value if the formula results in an error.                  | `=IFERROR(A1/B1, "Error")` → Shows "Error" if division fails.        |
 | `IFNA()`      | Returns a custom value if the formula results in `#N/A`.                    | `=IFNA(VLOOKUP(A1,B:C,2,0), "Not Found")` → Handles #N/A errors.     |
-
+| `SWITCH()`    | Returns a value based on a list of conditions.                              | `=SWITCH(A1, 1, "One", 2, "Two", 3, "Three")` → Returns text based on A1 value. |
 
 ### IS Functions
 | Formula          | Description                                                                 | Usage                                                                 |

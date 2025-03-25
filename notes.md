@@ -11,7 +11,16 @@
 - Check data quality and summarize the data better
 
 ```
-Format data
-_-Rp* #.##0_-;-Rp* #.##0_-;_-Rp* "-"_-;_-@_- => Rp 300.000
-```
 
+### Exploratory data analysis (EDA)
+```
+1. Data preparation 
+  - Collecting
+  - Cleaning
+2. Data exploration 
+  - Learn about each variable
+  - Compute summary statistics
+  - Find corelations and trends
+  - Visualize the data
+3. Hypothesis generation and further analysis
+```
