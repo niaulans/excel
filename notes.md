@@ -70,7 +70,7 @@ Depending on your data pattern:
   Useful for financial or daily sales data.
 ```
 
-## More complex charts
+### More complex charts
 ```
 1. Single vs multi-series charts
   - Single series -> one data set
