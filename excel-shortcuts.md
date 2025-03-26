@@ -206,6 +206,8 @@
 | Alt H U I          | Find minimum value                                       |
 | Alt H E A          | Clear all                                                |
 | Alt H E F          | Clear formats                                            |
+| Alt H I T          | Insert table column to the right                         |
+| Alt H I S          | Insert table column to the left                          |
 
 
 
