@@ -89,3 +89,32 @@ Depending on your data pattern:
   - Useful for identifying trends and correlations
 ```
 
+### Data visualization best practices
+```
+Two dimensions or three dimensions?
+- Two dimensions
+  - Easy to interpret
+  - Versatile and distraction-free
+
+- Three dimensions
+  - Hard to read the correct value
+  - Perspective distorts the chart and confuses the eye
+
+Labels, legends, and titles
+- Not self-explanatory
+- Axis does not start at 0 and misleading
+
+Color: an ally or enemy?
+- "Rainbow" charts - colors bring no value
+- Avoid using red/amber/green in categorical legends
+- Use color to draw attention to a data point
+
+- Avoid redundant axes and chart titles
+- Unnecessary legends
+- Evaluate each chart element
+- Bring focus to selected chart elements
+- Use title and color to draw attention to the main message
+- Use labels sparingly to highlight main data points
+- Consider graying out or increase the transparency of less important data points
+```
+
